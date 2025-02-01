@@ -5,3 +5,5 @@ streamlit
 numpy
 pandas
 pickle-mixin
+keras
+h5py
